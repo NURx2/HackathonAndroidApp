@@ -6,6 +6,7 @@ Social app for concerts written by React Native during "HackUniversity". Impleme
 - emoji page which is opened after confirming location of a user, in this page the user can share his emotions with other visitors; the server supports the creeping line with data from all users
 
 The server repository is [here](https://github.com/NURx2/HackathonServer).
+
 ---
 Социальная сеть для посетителей концертов, написанная на React Native в течение HackUniversity. Реализованы:
 - страница авторизации пользователя; реализовано реальное взаимодействие с сервером
@@ -15,4 +16,5 @@ The server repository is [here](https://github.com/NURx2/HackathonServer).
 - страница с эмоциями, которая открывается после начала концерта и проверки того, что местонахождение пользователя соответствует месту расположения концерта; на этой странице пользователь может во время концерта делиться с другими своими эмоциями; благодаря серверу происходит поддержка бегущей строки с данными ото всех пользователей
 
 [Репозиторий с сервером.](https://github.com/NURx2/HackathonServer)
+
 <img src="./app.gif">
